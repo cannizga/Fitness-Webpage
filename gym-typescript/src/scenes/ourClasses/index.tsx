@@ -36,7 +36,7 @@ const classes: Array <ClassType> = [
         image: image5
     },
     {
-        name: "Training Classes",
+        name: "Yoga Classes",
         image: image6
     }
 ]
